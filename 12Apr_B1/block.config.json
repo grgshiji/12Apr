@@ -1,0 +1,18 @@
+{
+  "blockId": "b2tNP5I6uhAOIbPb-OPr6",
+  "name": "12Apr_B1",
+  "type": "raw-package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_12Apr_B1"
+  },
+  "parentBlockIDs": [
+    "hZLs6oKMeP2JQmMbP9i9J"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}
