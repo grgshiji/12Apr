@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "hZLs6oKMeP2JQmMbP9i9J",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/12Apr.git",
+    "ssh": "git@github.com:grgshiji/12Apr.git",
     "branch": "block_12Apr"
   },
   "parentBlockIDs": [],
@@ -16,6 +16,9 @@
   "dependencies": {
     "12Apr_B1": {
       "directory": "12Apr_B1"
+    },
+    "qwert": {
+      "directory": "qwert"
     }
   }
 }
