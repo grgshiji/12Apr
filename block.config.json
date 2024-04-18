@@ -1,0 +1,24 @@
+{
+  "name": "12Apr",
+  "type": "package",
+  "blockId": "hZLs6oKMeP2JQmMbP9i9J",
+  "source": {
+    "https": "https://github.com/grgshiji/12Apr.git",
+    "ssh": "git@github.com:grgshiji/12Apr.git",
+    "branch": "block_12Apr"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "12Apr_B1": {
+      "directory": "12Apr_B1"
+    },
+    "qwert": {
+      "directory": "qwert"
+    }
+  }
+}
