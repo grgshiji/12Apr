@@ -1,0 +1,18 @@
+{
+  "blockId": "1wiPT4C8evUBv0sGzXof4",
+  "name": "qwert",
+  "type": "raw-package",
+  "source": {
+    "https": "https://github.com/grgshiji/12Apr.git",
+    "ssh": "git@github.com:grgshiji/12Apr.git",
+    "branch": "block_qwert"
+  },
+  "parentBlockIDs": [
+    "hZLs6oKMeP2JQmMbP9i9J"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}
